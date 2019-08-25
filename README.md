@@ -1,2 +1,1 @@
-# learnyouahaskell
-Haskell hands on
+clojure hands on
